@@ -1,0 +1,14 @@
+{
+  "extends": "eslint-config-rallycoding",
+  "rules": {
+    "arrow-body-style": 0,
+    "no-underscore-dangle": 0,
+    "object-shorthand": 0,
+    "global-require": 0,
+    "no-confusing-arrow": 0,
+    "no-else-return": 0,
+    "react/jsx-boolean-value": 0,
+    "max-len": 0,
+    "no-lonely-if": 0
+  }
+}
